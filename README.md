@@ -1,4 +1,4 @@
-**# SR_ff in verilog**
+**# JK_ff in verilog**
 
 
 Changed Q=2'b00; to Q <= 1'b0; in the reset condition.
